@@ -1,6 +1,6 @@
 # 🚀 Portafolio de Aplicación Práctica - Full Stack Python Trainee
 
-![Estado del Proyecto](https://img.shields.io/badge/Estado-Finalizado-success)
+![Estado del Proyecto](https://img.shields.io/badge/COMPLETADO-20%25-orange)
 ![Curso](https://img.shields.io/badge/Curso-SENCE-blue)
 
 Este repositorio contiene el proyecto de **Portafolio de Aplicación Práctica** desarrollado como parte del curso de formación **Full Stack Python Trainee** (SENCE).
